@@ -1,0 +1,10 @@
+
+#import "GuluAPIAccessManager+Post.h"
+#import "GuluAPIAccessManager+Search.h"
+#import "GuluAPIAccessManager+Favorite+Like.h"
+#import "GuluAPIAccessManager+User.h"
+#import "GuluAPIAccessManager+Comment.h"
+#import "GuluAPIAccessManager+Notify.h"
+#import "GuluAPIAccessManager+Login.h"
+#import "GuluAPIAccessManager+PlaceDish.h"
+#import "GuluAPIAccessManager+Other.h"

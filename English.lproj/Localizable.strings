@@ -1,0 +1,426 @@
+/* [user profile]*/
+"A+"="A+" ;
+
+/* Chat Landing Page tab Menu*/
+"Hungry"="Hungry" ;
+
+/* RSVP*/
+"I am going!"="I am going!" ;
+
+/* Bad User Name Or Password*/
+"bad_username_password"="Sorry, this is an invalid username or password." ;
+
+/* [button] 5 main feature button*/
+"CHAT"="CHAT" ;
+
+/* [button] 5 main feature button*/
+"MISSION"="MISSIONS" ;
+
+/* [button] 5 main feature button*/
+"MY GULU"="MY GULU" ;
+
+/* [button] 5 main feature button*/
+"POST"="POST" ;
+
+/* [button] 5 main feature button*/
+"SEARCH"="SEARCH" ;
+
+/* [button] add friend add friend*/
+"Add Friends"="Add Friends" ;
+
+/* [button] add function in post review page,*/
+"ADD"="ADD" ;
+
+/* [button] add Mission button*/
+"+MISSION"="+MISSIONS" ;
+
+/* [button] add to do button*/
+"+TO DO"="+TO DO" ;
+
+/* [button] Back*/
+"Back"="Back" ;
+
+/* [button] cancel*/
+"Cancel"="Cancel" ;
+
+/* [button] Create event*/
+"Create Event"="Create Event" ;
+
+/* [button] done*/
+"Done"="Done" ;
+
+/* [button] favorite button*/
+"FAVORITE"="FAVORITE" ;
+
+/* [button] invite button*/
+"INVITE"="INVITE" ;
+
+/* [button] Invite Guests*/
+"Invite Guests!"="Invite Guests!" ;
+
+/* [button] map button*/
+"MAP"="MAP" ;
+
+/* [button] photo album in phone*/
+"Album"="Album" ;
+
+/* [button] save post*/
+"SAVE"="SAVE" ;
+
+/* [button] Send*/
+"Send"="Send" ;
+
+/* [button] settings*/
+"SETTINGS"="SETTINGS" ;
+
+/* [button] submit post*/
+"SUBMIT"="SUBMIT" ;
+
+/* [button]*/
+"Guest List"="Guest List" ;
+
+/* [event] guest list title*/
+"Your Guests"="Your Guests" ;
+
+/* [event] title*/
+"What is the name of your event?"="What is the name of your event?" ;
+
+/* [event] when title*/
+"When is it?"="When is it?" ;
+
+/* [event] where title*/
+"Where is it?"="Where is it?" ;
+
+/* [friend] nickname*/
+"Nickname"="Nickname" ;
+
+/* [friend] phone number*/
+"Phone Number"="Phone Number" ;
+
+/* [invite]*/
+"Remind"="Remind" ;
+
+/* [login] check login*/
+"Checking..."="Checking..." ;
+
+/* [login] password placeholder*/
+"Password"="Password" ;
+
+/* [login] username placeholder*/
+"Username"="Username" ;
+
+/* [my gulu page] button*/
+"Comment"="Comment" ;
+
+/* [my gulu page] button*/
+"Like"="Like" ;
+
+/* [my gulu page] tab*/
+"Around Me"="Around Me" ;
+
+/* [my gulu page] tab*/
+"Feed"="Feed" ;
+
+/* [my gulu page] tab*/
+"Friends"="Friends" ;
+
+/* [my gulu page] tab*/
+"My Post"="My Posts" ;
+
+/* [my gulu page] tab*/
+"To Dos"="To Dos" ;
+
+/* [post] add a new place*/
+"Add a new dish"="Add a new dish" ;
+
+/* [post] add a new place*/
+"Add a new restaurant"="Add a new restaurant" ;
+
+/* [POST] press cancel button and show the warning*/
+"Abort this review and go back?"="Do you really want to cancel this review?" ;
+
+/* [POST] press cancel button and show the warning*/
+"Abort this review and go to Landing?"="Abort this review and go to Landing?" ;
+
+/* [post] skip adding a dish*/
+"Skip"="Skip" ;
+
+/* [post]*/
+"Submit Successfully!"="Submit Successfully!" ;
+
+/* [post]best known for placeholder*/
+"Suggest or select something!"="Suggest or select something!" ;
+
+/* [Post]Best known for*/
+"Best for"="Best for" ;
+
+/* [post]select dish*/
+"Dish"="Dish" ;
+
+/* [post]select restaurant*/
+"Restaurant"="Place" ;
+
+/* [settings]*/
+"Log out?"="Are you sure you want to Log Out?	" ;
+
+/* [settings]*/
+"Log Out"="Log Out" ;
+
+/* [settings]*/
+"My Profile"="My Profile" ;
+
+/* [settings]*/
+"Notification"="Notifications" ;
+
+/* [settings]*/
+"Privacy Settings"="Social Network" ;
+
+/* [settings]*/
+"Send Feedback"="Send Feedback" ;
+
+/* [settings]*/
+"Socail network"="Social network" ;
+
+/* [sign up] email address*/
+"Email Address"="Email Address" ;
+
+/* [sign up] landing page of chat*/
+"How\nabout..."="How\nabout..." ;
+
+/* [sign up] landing page of chat*/
+"I'm\nHungry"="I'm \n Hungry" ;
+
+/* [sign up] landing page of chat*/
+"Let's\nhave lunch"="Let's \n have lunch" ;
+
+/* [sign up] password placeholder*/
+"Confirm Password"="Confirm Password" ;
+
+/* [sliderbar]*/
+"Slide to nominate this dish to be Gulu Approved"="Slide to nominate this dish to be Gulu Approved" ;
+
+/* [user profile] change photo button*/
+"Change Photo"="Change Photo" ;
+
+/* [user profile]*/
+"A+"="A+" ;
+
+/* [user profile]*/
+"Fans"="Fans" ;
+
+/* add friend*/
+"Add Friend"="Add Friend" ;
+
+/* add new place in post*/
+"Add"="Add" ;
+
+/* add phone number placeholder in post*/
+"Add phone number"="Add phone number" ;
+
+/* Bad User Name Or Password*/
+"bad_username_password"="Bad User Name Or Password" ;
+
+/* Bad user name*/
+"username_not_valid"="Sorry, that username is invalid. Please enter a username containing only the characters a-z, 0-9, - and _." ;
+
+/* Chat Landing Page tab Menu*/
+"All"="All" ;
+
+/* Chat Landing Page tab Menu*/
+"Events"="Events" ;
+
+/* Chat Landing Page tab Menu*/
+"Hungry"="Hungry" ;
+
+/* Chat placeholder*/
+"Say somethings!"="Say something." ;
+
+/* Check Email*/
+"You have signed up, please check your email"="You have signed up, please check your email" ;
+
+/* edit*/
+"Edit"="Edit" ;
+
+/* email account has not been activated **/
+"not_activate"="Please Check Your Email to Activate Your Account " ;
+
+/* Email link has already been used*/
+"already_activated"="The activation link has already been used" ;
+
+/* Email address in use*/
+"email_not_avail"="Sorry, this e-mail address is already in use. " ;
+
+/* Email Not Found*/
+"email_not_found"="Sorry, this is an invalid e-mail. " ;
+
+/* Email Not Valid*/
+"email_not_valid"="Sorry, this e-mail is in an invalid format. " ;
+
+/* Welcome dialog after activating account*/
+"welcome_to_gulu"="Welcome to Gulu" ;
+
+/* error happened*/
+"Connection Error"="I could not connect to Gulu.com. \n Are you online ?" ;
+
+/* invite*/
+"You are attending."="You are attending." ;
+
+/* invite*/
+"You created this event."="You created this event." ;
+
+/* invite*/
+"You need to R.S.V.P"="You need to R.S.V.P" ;
+
+/* landing page*/
+"Log in"="Log in" ;
+
+/* landing page*/
+"Sign up"="Sign up" ;
+
+/* No comment provided by engineer.*/
+"Add To Favorite"="Add To Favorite" ;
+
+/* No comment provided by engineer.*/
+"Add To Todo List"="Add To Todo List" ;
+
+/* No comment provided by engineer.*/
+"Best Known for"="Best Known for" ;
+
+/* No comment provided by engineer.*/
+"Check Out Your Friends Photos @ This Place."="Check Out Your Friends' Photos @ This Place." ;
+
+/* No comment provided by engineer.*/
+"Congratulations!"="Congratulations!" ;
+
+/* No comment provided by engineer.*/
+"e,g. Matt's Birthday"="e.g.: Matt's Birthday" ;
+
+/* No comment provided by engineer.*/
+"e.g. Joe's Dinner"="e.g: Joe's Diner " ;
+
+/* No comment provided by engineer.*/
+"e.g. Tuesday 6/21 5PM"="e.g.: Tuesday 6/21 5PM" ;
+
+/* No comment provided by engineer.*/
+"Find Great Places That Your friends Love."="Find Great Places That Your Friends Love." ;
+
+/* No comment provided by engineer.*/
+"Mission Design Recruit.Challenage with Friends."="Mission Design Recruit. Challenge with Friends." ;
+
+/* No comment provided by engineer.*/
+"Post"="Post" ;
+
+/* No comment provided by engineer.*/
+"Search"="Search" ;
+
+/* No comment provided by engineer.*/
+"Share Photo & Thoughts on Food,Place & Events."="Share Photos & Thoughts on Food, Places & Events." ;
+
+/* No comment provided by engineer.*/
+"Sign Up Options"="Sign Up Options" ;
+
+/* No comment provided by engineer.*/
+"Socail Network "="Social Network" ;
+
+/* No comment provided by engineer.*/
+"Tell Friends You're Hungry. Chat & Organize. Go Out & Eat."="Tell Friends You're Hungry. Chat & Organize. Go Out & Eat." ;
+
+/* No comment provided by engineer.*/
+"Welcome back!\nLogin Options"="Welcome back!\nLog in Options" ;
+
+/* No comment provided by engineer.*/
+"Wrong email format."="Wrong email format." ;
+
+/* NO*/
+"NO"="No" ;
+
+/* OK*/
+"OK"="O.K." ;
+
+/* Please Enter Your Email for verification email*/
+"please_check_your_email"="Please check your e-mail using your phone to validate your e-mail address. " ;
+
+/* Please Enter Your Email*/
+"no_email_entered"="Please enter an e-mail address. " ;
+
+/* privacy settings*/
+"Public"="Public" ;
+
+/* pull to reloade data string in a table header*/
+"Loading..."="Sending..." ;
+
+/* pull to reloade data string in a table header*/
+"Pull down to refresh..."="Pull down to refresh..." ;
+
+/* pull to reloade data string in a table header*/
+"Release to refresh..."="Release to refresh..." ;
+
+/* R.S.V.P.*/
+"R.S.V.P."="R.S.V.P." ;
+
+/* RSVP*/
+"I am going!"="I am going!" ;
+
+/* RSVP*/
+"I am not going!"="I am not going!" ;
+
+/* search tab bar placeholder*/
+"Search for Dishes"="Search for Dishes" ;
+
+/* search tab bar placeholder*/
+"Search for Missions"="Search for Missions" ;
+
+/* search tab bar placeholder*/
+"Search for Restaurants"="Search for Restaurants" ;
+
+/* search tab bar title [user profile] Chat Landing Page tab Menu*/
+"Missions"="Missions" ;
+
+/* search tab bar title*/
+"Dishes"="Dishes" ;
+
+/* search tab bar title*/
+"Restaurants"="Restaurants" ;
+
+/* show how many followers i have*/
+"Followers"="Fans" ;
+
+/* show how many review i have*/
+"Reviews"="Reviews" ;
+
+/* show this string on the map*/
+"Current Location"="Current Location" ;
+
+/* show this string on the map*/
+"Search around here."="Search around here." ;
+
+/* submit review is done and chose what social network want to share*/
+"I'm done !"="I'm done !" ;
+
+/* this is a loading spinner message string*/
+"Loading ..."="Loading ..." ;
+
+/* this is a submit spinner message string*/
+"Uploading ..."="Uploading ..." ;
+
+/* Unknown error*/
+"Sorry An Error Occurred"="Sorry An Error Occurred" ;
+
+/* Unknown error*/
+"unknown_error"="Sorry An Error Occurred" ;
+
+/* user gives gulu aprove*/
+"Thanks for the nomination!"="Thanks for the nomination!" ;
+
+/* Username is in use*/
+"username_not_avail"="Sorry, that username is already in use. Please pick another username. " ;
+
+/* Warning alert to notify user.*/
+"Warning!"="Cancel review?" ;
+
+/* Warning alert to notify user.*/
+"Warning!"="Warning!" ;
+
+/* YES*/
+"YES"="Yes" ;
+
